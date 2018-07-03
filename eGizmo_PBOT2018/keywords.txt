@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For eGizmo_PBOT2018
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+eGizmo_PBOT2018	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+BEGIN			KEYWORD2
+ALLON			KEYWORD2
+ALLOFF			KEYWORD2
+SPEED			KEYWORD2
+DIRECTION		KEYWORD2
+SERVO			KEYWORD2
+COL1_RIGHT		KEYWORD2
+COL2_CENTER		KEYWORD2
+COL3_LEFT		KEYWORD2
+LS1_LEFT		KEYWORD2
+LS2_CENTER		KEYWORD2
+LS3_RIGHT		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
